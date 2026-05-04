@@ -1,6 +1,5 @@
-<div align="center">
-
-```text
+<p align="center">
+<pre>
                      :*#.
              =%%.     *@%.
               #@#      #@*        .:
@@ -14,9 +13,8 @@
                    :@@=
                    %@#
                   :*%-
-```
-
-</div>
+</pre>
+</p>
 
 <h1 align="center">Hey, I'm Aymen! 👋</h1>
 
